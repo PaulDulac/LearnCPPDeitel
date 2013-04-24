@@ -1,0 +1,26 @@
+LICENSE AND RULES FOR THIS HERE CODE STUFF
+==========================================
+
+
+This code falls under the most lenient or open IP license
+you prefer.  It's basically me doing self-assigned homework, and
+it should be taken as such.
+
+So BE WARNED!!!  If you want to use this code, its been written
+by a noob for himself and no others.  You assume all risk for
+whatever dark things may happen to your system if you try to
+run it, though I'll try to not suck that hard.
+
+BUT!!!
+
+The problems that I'm solving are the mind-babies of Deitel and Deitel
+and whomever helped them, and are not things I've come up with.  I lay
+no claim to the prompts or exercises themselves, the code files here are
+only my solutions to the problems they've designed.
+
+If you're a student also working through their book for whatever reason,
+feel free to look at my solutions and see how they match up to 
+whatever you come up with.  Hopefully I'm producing the correct results.
+But please try and complete them on your own before checking mine,
+as otherwise you won't be learning anything and will more likely than
+not just pick up my bad habits.

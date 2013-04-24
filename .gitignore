@@ -1,0 +1,9 @@
+# no .out, .obj, or .exe files
+*.out
+*.obj
+*.exe
+
+#ignore all files in Example folders
+Ch.4/Examples/
+Ch.5/Examples/
+Ch.6/Examples/
