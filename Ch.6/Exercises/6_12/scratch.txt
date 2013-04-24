@@ -1,0 +1,7 @@
+Scratch for Exercise 6.12 in deitel
+
+$2.00 base charge, $0.50 each hour or part thereof up to a daily max of $10.00
+
+function calculateCharges() should determine the charge for each customer.
+
+takes three sets of hours, then prints (in a nice table) the charges for each (see diagram)

@@ -1,0 +1,37 @@
+4.14 scratch document
+
+C++ program that determines whether a department store customer has exceeded the credit limit on a charge account.
+
+a) Account # (integer)
+b) Balance at the beginning of the month
+c) Total of all items charged by this customer this month
+d) Total of all credits applied to this customer's account this month
+e) Allowed credit limit
+
+Prompt to input each of these facts
+Calculate (& display) new balance = beginning balance + charges - credits
+Determine if new balance exceeds customer's credit limit
+
+IF the customer's credit limit is exceeded, display the customer's:
+account #
+credit limit
+new balance
+the message "Credit Limit Exceeded."
+
+ChargeAccount class:
+do:
+- set account number
+- set beginning balance
+- set total charges
+- set total credits
+- set credit limit
+- calculate new balance (beginning balance + charges - credits)
+- check if over credit limit
+
+store:
+accountNo
+beginningBalance
+totalCharges
+totalCredits
+creditLimit
+newBalance

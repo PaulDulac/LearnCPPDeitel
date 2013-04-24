@@ -1,0 +1,10 @@
+Outline for exercise 4.13 in Deitel
+
+Need a mileage class.
+functions:
+ - getMilesDriven // prompt the user for the # of miles driven
+ - getGallonsUsed // prompt the user for the # of gallons used
+ - calculateMPGThisTrip // calculate the total mpg for this trip
+ - calculateMPGAverage // calculate the average of all trip mpg's so far
+
+ 

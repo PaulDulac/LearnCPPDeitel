@@ -1,0 +1,31 @@
+// terrible encryption scheme
+all data transmitted as four-digit integers.
+
+Write two programs
+
+1)  Encrypter
+- read a four digit integer entered by user
+- replace each digit w/ result of adding 7 and getting the remainder after dividing the new value by 10.
+- then swap first digit with third, and second digit with fourth
+- then print the newly encrypted integer
+
+2)  Decrypter
+- read an encrypted four-digit integer and decrypt it
+- print the original number.
+
+
+for 1) - 
+read all 4 digits at once.
+separate digits using div and mod, store in individual variables
+add 7 and find remainder for each variable
+print << third << fourth << first << second
+
+read all 4 digits at once
+separate digits using div and mod, store in individual variables
+0-7
+1-8
+2-9
+3-0
+4-1
+add three and find mod 10 (remainder)
+print << third << fourth << first << second
